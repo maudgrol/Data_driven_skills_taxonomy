@@ -4,11 +4,6 @@
 
 
 
-# big data files
-
-ESCO_occup_skills.json
-
-
 wiki-news-300d-1M.vec.zip
 cos_similarity_skills.csv
 graph.gml
